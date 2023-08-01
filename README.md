@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RAVIKIRAN-NS
 - 👀 I’m interested in programming and software development.
 - 🌱 I’m currently learning different x2 tools related to Python , AIML ,Cloud and many more.
-- I have completed projects that can used in real world and many of the projects are already implemented.
+- I have completed projects that can be used in real world and many of the projects are already implemented.
 - 📫 How to reach me :https://www.linkedin.com/in/ravi-kiran-ns
 - Email : ravidavi01ns@gmail.com
 
